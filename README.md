@@ -72,5 +72,12 @@ Here are some ideas to get you started:
 
 
 <!-- 이메일 컨텍 -->
-if you would like to contact me, click 👉 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:chloeedev@gmail.com)](mailto:chloeedev@gmail.com)
-[![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:chelll1@naver.com)](mailto:chelll1@naver.com)
+
+
+<p align=center>
+📧 if you would like to contact me 📧
+<br/>
+<a href="mailto:chloeedev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:chloeedev@gmail.com"/></a>
+<a href="mailto:chelll1@naver.com" target="_blank"><img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:chelll1@naver.com"/></a>
+</p>
+
