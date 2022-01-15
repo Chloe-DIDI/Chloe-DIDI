@@ -59,8 +59,13 @@ Here are some ideas to get you started:
 <a href="https://Google Drive.com/" target="_blank"><img src="https://img.shields.io/badge/Google Drive-4285F4?style=flat-square&logo=Google Drive&logoColor=white"/>
 <a href="https://Amazon AWS.com/" target="_blank"><img src="https://img.shields.io/badge/Amazon AWS-02456C?style=flat-square&logo=Amazon AWS&logoColor=white"/>
 </a>
-</p>
+ </p>
+ 
+ <!--
+💻Learned at Ssangyong Gangbuk Education Center.
 
+📚 learning Full-Stack(WEB front-end & back-end)
+-->
 <!-- 스킬 작성 -->
 <!-- 포트폴리오
 ### ✡ Skills
