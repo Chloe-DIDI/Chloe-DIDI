@@ -64,8 +64,7 @@ Here are some ideas to get you started:
  
 <br>
 
-![Chloe-DIDI's github stats](https://github-readme-stats.vercel.app/api?username=Chloe-DIDI&show_icons=true&theme=buefy)
-![Chloe-DIDI's Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=Chloe-DIDI&layout=compact&theme=buefy)
+![Chloe-DIDI's github stats](https://github-readme-stats.vercel.app/api?username=Chloe-DIDI&show_icons=true&theme=buefy)  ![Chloe-DIDI's Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=Chloe-DIDI&layout=compact&theme=buefy)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
