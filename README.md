@@ -55,7 +55,9 @@ Here are some ideas to get you started:
 <a href="https://figma.com/" target="_blank"><img src="https://img.shields.io/badge/Figma-EF2D5E?style=flat-square&logo=Figma&logoColor=white"/></a>
 <br/>
 <a href="https://Notion.com/" target="_blank"><img src="https://img.shields.io/badge/Notion-FECC00?style=flat-square&logo=Notion&logoColor=white"/></a>
-<a href="https://Google Drive.com/" target="_blank"><img src="https://img.shields.io/badge/Google Drive-4285F4?style=flat-square&logo=Google Drive&logoColor=white"/></a>
+<a href="https://Google Drive.com/" target="_blank"><img src="https://img.shields.io/badge/Google Drive-4285F4?style=flat-square&logo=Google Drive&logoColor=white"/>
+<a href="https://Amazon AWS.com/" target="_blank"><img src="https://img.shields.io/badge/Amazon AWSe-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/>
+</a>
 </p>
 
 <!-- 스킬 작성 -->
