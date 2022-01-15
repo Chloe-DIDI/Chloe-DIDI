@@ -17,10 +17,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-
 <!-- Hello! I'm DaJeong  대문 -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:ff96d0,55:acd9e8,100:f2e89d&height=180&section=header&text=Hello!%20I'm%20DaJeong&fontColor=ffffff&fontAlignY=40&fontSize=68)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:ff96d0,55:acd9e8,100:f2e89d&height=200&section=header&text=Hello!%20I'm%20DaJeong&fontColor=ffffff&fontAlignY=40&fontSize=70)
 
 <!-- 내가 한 만큼 프로젝트 퍼센트 나타내 주는 것 → 안하기로-->
 <!--
@@ -30,6 +28,18 @@ Here are some ideas to get you started:
 <!-- 얼굴 이모지 이미지 사진 Face pic -->
 <p align="center">:sparkling_heart:<img src="https://user-images.githubusercontent.com/88278017/149611761-9ad6e497-6df7-408e-a97f-ad38f0fad81a.png" width="20%" height="20%" align="center"/>:sparkling_heart:</p>
 
+<p align=center>
+if you would like to contact me, click 👇
+<!-- 이메일 컨텍 -->
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:chloeedev@gmail.com)](mailto:chloeedev@gmail.com)
+[![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:chelll1@naver.com)](mailto:chelll1@naver.com)
+</p>
+
+
+<img src="https://camo.githubusercontent.com/08051f8f7b15930f86d39c427953cfb2b1ef96e65efa8a417b8ad92ed8bb083b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476d61696c2d4541343333353f7374796c653d666c61742d737175617265266c6f676f3d476d61696c266c6f676f436f6c6f723d7768697465266c696e6b3d6d61696c746f3a68796f6469693937333640676d61696c2e636f6d" alt="Gmail Badge" data-canonical-src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&amp;logo=Gmail&amp;logoColor=white&amp;link=mailto:hyodii9736@gmail.com" style="max-width: 100%;">
+
+
+<!-- 구분선 -->
 <h1></h1>
 
 ### ✡ Skills
