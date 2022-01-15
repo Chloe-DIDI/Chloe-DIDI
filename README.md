@@ -34,6 +34,7 @@ Here are some ideas to get you started:
 <!-- 얼굴 이모지 이미지 사진 Face pic -->
 <p align="center">:sparkling_heart:<img src="https://user-images.githubusercontent.com/88278017/149611761-9ad6e497-6df7-408e-a97f-ad38f0fad81a.png"  width="23%" height="23%" align="center"/>:sparkling_heart:</p>
 
+<h1></h1>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FChloe-DIDI%2FChloe-DIDI&count_bg=%23D2A6CA&title_bg=%23CACACA&icon=&icon_color=%23A4A4A4&title=hits&edge_flat=false?)](https://hits.seeyoufarm.com)
 
@@ -48,4 +49,5 @@ Here are some ideas to get you started:
 ![Chloe-DIDI's github stats](https://github-readme-stats.vercel.app/api?username=Chloe-DIDI&show_icons=true&theme=buefy)![Chloe-DIDI's Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=Chloe-DIDI&layout=compact&theme=buefy)
 <br>
   
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
