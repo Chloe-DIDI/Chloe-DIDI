@@ -66,7 +66,8 @@ Here are some ideas to get you started:
  
 <br>
 
-![Chloe-DIDI's github stats](https://github-readme-stats.vercel.app/api?username=Chloe-DIDI&show_icons=true&theme=buefy)![Chloe-DIDI's Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=Chloe-DIDI&layout=compact&theme=buefy)
+![Chloe-d's github stats](https://github-readme-stats.vercel.app/api?username=Chloe-DIDI&show_icons=true&theme=buefy)[![Chloe-DIDI's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Chloe-DIDI&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/Chloe-DIDI)
+
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -74,9 +75,9 @@ Here are some ideas to get you started:
 <!-- 이메일 컨텍 -->
 
 
+
+<h4 align=center>📧 If you would like to contact me 📧</h4>
 <p align=center>
-📧 if you would like to contact me 📧
-<br/>
 <a href="mailto:chloeedev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:chloeedev@gmail.com"/></a>
 <a href="mailto:chelll1@naver.com" target="_blank"><img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:chelll1@naver.com"/></a>
 </p>
