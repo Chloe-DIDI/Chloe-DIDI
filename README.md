@@ -17,12 +17,23 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!-- hit counter -->
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+&emsp;&nbsp;&nbsp;&nbsp;[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FChloe-DIDI%2FChloe-DIDI&count_bg=%23D2A6CA&title_bg=%23CACACA&icon=&icon_color=%23A4A4A4&title=hits&edge_flat=false?)](https://hits.seeyoufarm.com)
 
+
+
+<!-- Hello! I'm DaJeong  대문 -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:ff96d0,55:acd9e8,100:f2e89d&height=250&section=header&text=Hello!%20I'm%20DaJeong&fontColor=ffffff&fontAlignY=40&tSize=100)
-### DaJeong's Github!
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FChloe-DIDI%2FChloe-DIDI&count_bg=%23D2A6CA&title_bg=%23CACACA&icon=&icon_color=%23A4A4A4&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
+<!-- 내가 한 만큼 프로젝트 퍼센트 나타내 주는 것 → 안하기로-->
+<!--
+[![Repository Card](https://widget.realdeveloper.pro/api/card?user=Chloe-DIDI&repo=final_Seolo)](https://github.com/Final-Project-Team2/final_Seolo)
+-->
 
+<!-- 얼굴 이모지 이미지 사진 Face pic -->
+<p align="center">:sparkling_heart:<img src="https://user-images.githubusercontent.com/88278017/149611761-9ad6e497-6df7-408e-a97f-ad38f0fad81a.png"  width="200" height="200" align="center"/>:sparkling_heart:</p>
+<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=haesoo9410">
 
 ### ✡ Skills
 //포트폴리오 첫번째 내껄로 수정 - 주소
@@ -34,3 +45,5 @@ Here are some ideas to get you started:
 
 ![Chloe-DIDI's github stats](https://github-readme-stats.vercel.app/api?username=Chloe-DIDI&show_icons=true&theme=buefy)![Chloe-DIDI's Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=Chloe-DIDI&layout=compact&theme=buefy)
 <br>
+  
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
