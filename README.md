@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!-- hit counter -->
+<!-- hit counter
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
 &emsp;&nbsp;&nbsp;&nbsp;[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FChloe-DIDI%2FChloe-DIDI&count_bg=%23D2A6CA&title_bg=%23CACACA&icon=&icon_color=%23A4A4A4&title=hits&edge_flat=false?)](https://hits.seeyoufarm.com)
-
+-->
 
 
 <!-- Hello! I'm DaJeong  대문 -->
@@ -34,6 +34,10 @@ Here are some ideas to get you started:
 <!-- 얼굴 이모지 이미지 사진 Face pic -->
 <p align="center">:sparkling_heart:<img src="https://user-images.githubusercontent.com/88278017/149611761-9ad6e497-6df7-408e-a97f-ad38f0fad81a.png"  width="200" height="200" align="center"/>:sparkling_heart:</p>
 <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=haesoo9410">
+
+
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FChloe-DIDI%2FChloe-DIDI&count_bg=%23D2A6CA&title_bg=%23CACACA&icon=&icon_color=%23A4A4A4&title=hits&edge_flat=false?)](https://hits.seeyoufarm.com)
 
 ### ✡ Skills
 //포트폴리오 첫번째 내껄로 수정 - 주소
