@@ -18,7 +18,8 @@ Here are some ideas to get you started:
 -->
 
 <!-- Hello! I'm DaJeong  대문 -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:ff96d0,55:acd9e8,100:f2e89d&height=200&section=header&text=Hello!%20I'm%20DaJeong&fontColor=ffffff&fontAlignY=40&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:FF80DE,50:6EBBD6,100:F5E425&height=200&section=header&text=Hello!%20I'm%20DaJeong&fontColor=ffffff&fontAlignY=40&fontSize=70)
+
 
 <!-- 내가 한 만큼 프로젝트 퍼센트 나타내 주는 것 → 안하기로-->
 <!--
