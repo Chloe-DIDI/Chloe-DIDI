@@ -48,26 +48,24 @@ Here are some ideas to get you started:
 </p>
 
 <h2 align="center">✨Cowork Tool✨</h2>
-
+<p align=center>
 <a href="https://github.com/" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
+<a href="https://Sourcetree.com/" target="_blank"><img src="https://img.shields.io/badge/Sourcetree-0052CC?style=flat-square&logo=Sourcetree&logoColor=white"/></a>
+<a href="https://figma.com/" target="_blank"><img src="https://img.shields.io/badge/Figma-EF2D5E?style=flat-square&logo=Figma&logoColor=white"/></a>
+<a href="https://Notion.com/" target="_blank"><img src="https://img.shields.io/badge/Notion-FECC00?style=flat-square&logo=Notion&logoColor=white"/></a>
+<a href="https://Google Drive.com/" target="_blank"><img src="https://img.shields.io/badge/Google Drive-4285F4?style=flat-square&logo=Google Drive&logoColor=white"/></a>
+</p>
+
 <!-- 스킬 작성 -->
-
-
+<!-- 포트폴리오
 ### ✡ Skills
-- <a href="여기에 주소 넣기" target="_blank"><img src="https://img.shields.io/badge/Portfolio-683D87?style=flat-square&logo=Notion&logoColor=white"/></a>
-- <a href="https://www.java.com/" target="_blank"><img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a> 
-<a href="https://www.oracle.com/kr/index.html" target="_blank"><img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/></a> 
-<a href="https://www.javascript.com/" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>
-<a href="https://jquery.com/" target="_blank"><img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"/></a>
-<a href="https://spring.io/" target="_blank"><img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>
-
-<a href="https://github.com/" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
-  
+<a href="여기에 주소 넣기" target="_blank"><img src="https://img.shields.io/badge/Portfolio-683D87?style=flat-square&logo=Notion&logoColor=white"/></a>
+-->
+ 
 <br>
 
-![Chloe-DIDI's github stats](https://github-readme-stats.vercel.app/api?username=Chloe-DIDI&show_icons=true&theme=buefy)![Chloe-DIDI's Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=Chloe-DIDI&layout=compact&theme=buefy)
-<br>
-  
+![Chloe-DIDI's github stats](https://github-readme-stats.vercel.app/api?username=Chloe-DIDI&show_icons=true&theme=buefy)
+![Chloe-DIDI's Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=Chloe-DIDI&layout=compact&theme=buefy)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
