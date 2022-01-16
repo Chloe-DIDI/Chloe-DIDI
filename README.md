@@ -30,7 +30,8 @@ Here are some ideas to get you started:
 <!-- 얼굴 이모지 이미지 사진 Face pic -->
 <p align="center">:sparkling_heart:<img src="https://user-images.githubusercontent.com/88278017/149611761-9ad6e497-6df7-408e-a97f-ad38f0fad81a.png" width="20%" height="20%" align="center"/>:sparkling_heart:</p>
 <!--
-💻Learned at Ssangyong Gangbuk Education Center<br/>
+💻I majored in Management Information Systems<br/>
+🏫Learned at Ssangyong Gangbuk Education Center<br/>
 📚 learning Full-Stack(WEB front-end & back-end)
 <div align=right>
  
@@ -45,7 +46,8 @@ Here are some ideas to get you started:
 </div>
 
 <div align=center>
- 			💻Learned at Ssangyong Gangbuk Education Center<br/>
+ 			💻I majored in Management Information Systems<br/>
+🏫Learned at Ssangyong Gangbuk Education Center<br/>
 				📚 learning Full-Stack(Front-end & Back-end)
 </div>
 
