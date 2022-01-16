@@ -1,7 +1,5 @@
-
 <!--
 ### Hi there 👋
-
 
 **Chloe-DIDI/Chloe-DIDI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -31,15 +29,28 @@ Here are some ideas to get you started:
 
 <!-- 얼굴 이모지 이미지 사진 Face pic -->
 <p align="center">:sparkling_heart:<img src="https://user-images.githubusercontent.com/88278017/149611761-9ad6e497-6df7-408e-a97f-ad38f0fad81a.png" width="20%" height="20%" align="center"/>:sparkling_heart:</p>
-
 <!--
+💻Learned at Ssangyong Gangbuk Education Center<br/>
+📚 learning Full-Stack(WEB front-end & back-end)
 <div align=right>
  
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FChloe-DIDI%2FChloe-DIDI&count_bg=%23D2A6CA&title_bg=%23CACACA&icon=&icon_color=%23A4A4A4&title=hits&edge_flat=false?)](https://hits.seeyoufarm.com)
 
 </div>
 -->
-<h2 align="center" aria-hidden="true">✨Tech Stack✨</h2>
+<div align=right>
+ 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FChloe-DIDI%2FChloe-DIDI&count_bg=%23D2A6CA&title_bg=%23CACACA&icon=&icon_color=%23A4A4A4&title=hits&edge_flat=false?)](https://hits.seeyoufarm.com)
+
+</div>
+
+<div align=center>
+ 			💻Learned at Ssangyong Gangbuk Education Center<br/>
+				📚 learning Full-Stack(Front-end & Back-end)
+</div>
+
+
+<h2 align="center" >✨Tech Stack✨</h2>
 
 <!-- 스킬 작성 -->
 <p align=center>
@@ -66,11 +77,7 @@ Here are some ideas to get you started:
 </a>
  </p>
  
- <!--
-💻Learned at Ssangyong Gangbuk Education Center.
 
-📚 learning Full-Stack(WEB front-end & back-end)
--->
 <!-- 스킬 작성 -->
 <!-- 포트폴리오
 ### ✡ Skills
