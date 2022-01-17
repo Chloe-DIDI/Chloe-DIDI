@@ -46,9 +46,9 @@ Here are some ideas to get you started:
 </div>
 
 <div align=center>
- 			💻I majored in Management Information Systems<br/>
-🏫Learned at Ssangyong Gangbuk Education Center<br/>
-				📚 learning Full-Stack(Front-end & Back-end)
+💻I majored in Management Information Systems<br/>
+&emsp;&nbsp;🏫Learned at Ssangyong Gangbuk Education Center<br/>
+📚 learning Full-Stack(Front-end & Back-end)&emsp;&nbsp;&nbsp;&nbsp;
 </div>
 
 
