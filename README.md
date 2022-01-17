@@ -75,7 +75,7 @@ Here are some ideas to get you started:
 <br/>
 <a href="https://Notion.com/" target="_blank"><img src="https://img.shields.io/badge/Notion-FECC00?style=flat-square&logo=Notion&logoColor=white"/></a>
 <a href="https://www.google.com/drive/" target="_blank"><img src="https://img.shields.io/badge/Google Drive-4285F4?style=flat-square&logo=Google Drive&logoColor=white"/>
-<a href="https://Amazon AWS.com/" target="_blank"><img src="https://img.shields.io/badge/Amazon AWS-02456C?style=flat-square&logo=Amazon AWS&logoColor=white"/>
+<a href="https://aws.amazon.com/" target="_blank"><img src="https://img.shields.io/badge/Amazon AWS-02456C?style=flat-square&logo=Amazon AWS&logoColor=white"/>
 </a>
  </p>
  
